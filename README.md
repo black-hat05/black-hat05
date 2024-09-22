@@ -1,9 +1,9 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- Numberit **numberit.xyz**
-- Nortvue **nortvue.numberit.xyz**
-- 
-- Support **support@numberit.xyz**
+- Numberit: <a href="https://www.numberit.xyz">numberit.xyz</a>
+- Nortvue: <a href="https://nortvue.numberit.xyz">nortvue.numberit.xyz</a>
+
+- Support: **support@numberit.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
