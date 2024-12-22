@@ -3,6 +3,8 @@
 
 Numberit - <a href="https://www.numberit.xyz" target="_blank">numberit.xyz</a><br>
 Nortvue  - <a href="https://nortvue.numberit.xyz" target="_blank">nortvue.numberit.xyz</a><br>
+WebESCX  - <a href="https://webescx.numberit.xyz" target="_blank">webescx.numberit.xyz</a><br>
+NNU  - <a href="https://nnu.numberit.xyz" target="_blank">nnu.numberit.xyz</a><br>
 
 Support  - **support@numberit.xyz**<br>
 
